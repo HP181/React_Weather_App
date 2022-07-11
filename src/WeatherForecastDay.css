@@ -1,0 +1,22 @@
+.ForecastDay {
+  background: rgba(25, 28, 40, 0.582);
+  text-align: center;
+  border-radius: 15px;
+}
+.WeatherForecastDay {
+  font-weight: 800;
+  padding: 6px;
+  font-size: 18px;
+}
+.WeatherForecastTemp-max {
+  font-size: 18px;
+  font-weight: 800;
+}
+.WeatherForecastTemp-min {
+  font-size: 15px;
+}
+.WeatherForecastDescription {
+  padding-bottom: 5px;
+  font-style: italic;
+  font-size: 15px;
+}

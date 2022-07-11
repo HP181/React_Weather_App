@@ -1,0 +1,27 @@
+body {
+  font-family: "Yantramanav", sans-serif;
+  color: white;
+  /* background-image: url(https://www.teahub.io/photos/full/256-2567614_photo-wallpaper-grass-the-sun-macro-sunset-nature.jpg); */
+  
+  background-image: url(https://images.unsplash.com/photo-1580193769210-b8d1c049a7d9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fHdlYXRoZXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60);
+
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  object-fit: contain;
+  overflow: hidden;
+  font-weight: bolder;
+}
+
+
+footer {
+  /* padding-top: 40px; */
+  /* padding-bottom: 1em; */
+  position: fixed;
+  bottom: 0px;
+  text-align: center;
+  padding-left: 25%;
+}
+.container {
+  max-width: 800px;
+}

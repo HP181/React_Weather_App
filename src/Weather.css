@@ -1,0 +1,33 @@
+.Weather ul {
+  list-style-type: none;
+  padding: 0;
+}
+.Weather h2 {
+  font-size: 25px;
+  padding-top: 9px;
+  padding-left: 39px;
+}
+
+.form-control{
+border: 3px solid rgb(80, 130, 199);
+  border-radius: 9999px;
+}
+
+.form-control,
+.searchButton {
+  height: 35px;
+  margin: 20px 0px;
+  padding: 5px;
+}
+.form-control {
+  box-shadow: 2px 4px 10px rgba(248, 245, 245, 0.5);
+}
+
+.searchButton {
+  width: 30px;
+  background: transparent;
+  border: none;
+  margin-left: 0px;
+  position: relative;
+  bottom: 3px;
+}
